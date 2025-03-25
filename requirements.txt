@@ -1,0 +1,8 @@
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.2
+Pillow==10.1.0
+numpy==1.26.2
+setuptools>=65.5.0
+python-vlc==3.0.18122
+opencv-python==4.8.1.78 
